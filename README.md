@@ -1,2 +1,2 @@
 # RobotEscape
-Sample program for programming tutorials
+Sample program for Java programming tutorials
